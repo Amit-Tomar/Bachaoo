@@ -1,0 +1,824 @@
+[
+  {
+    "name":"Abhijit Bagchi",
+    "ID":"51A",
+    "LAT":"30.99923",
+    "LNG":78.94275
+  },
+  {
+    "name":"Abhijith Madhav",
+    "ID":"3D3",
+    "LAT":"30.99783",
+    "LNG":78.94169
+  },
+  {
+    "name":"Abhishek Bhol",
+    "ID":"3F3",
+    "LAT":"30.99873",
+    "LNG":78.94257
+  },
+  {
+    "name":"Ajay Tiwari",
+    "ID":"DF20",
+    "LAT":"30.99654",
+    "LNG":78.94344
+  },
+  {
+    "name":"Allada Dhanunjaya Prasad",
+    "ID":"4D2",
+    "LAT":"30.99536",
+    "LNG":78.94381
+  },
+  {
+    "name":"Allu Pramod Reddy",
+    "ID":"3G9",
+    "LAT":"30.99677",
+    "LNG":78.94013
+  },
+  {
+    "name":"Amit Tomar",
+    "ID":"2D1",
+    "LAT":"30.99613",
+    "LNG":78.94385
+  },
+  {
+    "name":"Amrutha M",
+    "ID":"4D1",
+    "LAT":"30.99933",
+    "LNG":78.94140
+  },
+  {
+    "name":"Ananth Krishna Hegde",
+    "ID":"3V0",
+    "LAT":"30.99795",
+    "LNG":78.94322
+  },
+  {
+    "name":"Ankesh Kumar Sengar",
+    "ID":"5V4",
+    "LAT":"30.99563",
+    "LNG":78.94068
+  },
+  {
+    "name":"Ankesh Sharma",
+    "ID":"2V2",
+    "LAT":"30.99908",
+    "LNG":78.94342
+  },
+  {
+    "name":"Ankit Gumber",
+    "ID":"2F3",
+    "LAT":"30.99558",
+    "LNG":78.94012
+  },
+  {
+    "name":"Ankit Narang",
+    "ID":"2E1",
+    "LAT":"30.99813",
+    "LNG":78.94113
+  },
+  {
+    "name":"Ankit Sharma",
+    "ID":"E23",
+    "LAT":"30.99664",
+    "LNG":78.94235
+  },
+  {
+    "name":"Ankita Sharma",
+    "ID":"23E",
+    "LAT":"30.99701",
+    "LNG":78.93990
+  },
+  {
+    "name":"Ankur Ashok Rathi",
+    "ID":"F38",
+    "LAT":"30.99855",
+    "LNG":78.94162
+  },
+  {
+    "name":"Ankur Kumar",
+    "ID":"53B",
+    "LAT":"30.99614",
+    "LNG":78.93985
+  },
+  {
+    "name":"Annu Singh",
+    "ID":"20B",
+    "LAT":"30.99750",
+    "LNG":78.94004
+  },
+  {
+    "name":"Anshul Karasi",
+    "ID":"5B4",
+    "LAT":"30.99905",
+    "LNG":78.94196
+  },
+  {
+    "name":"Anumula Kavya Sree",
+    "ID":"B29",
+    "LAT":"30.99580",
+    "LNG":78.94062
+  },
+  {
+    "name":"Anusha Modwal",
+    "ID":"4V4",
+    "LAT":"30.99663",
+    "LNG":78.94338
+  },
+  {
+    "name":"Apoorwa Mishra",
+    "ID":"2V3",
+    "LAT":"30.99744",
+    "LNG":78.94330
+  },
+  {
+    "name":"Arjun S Bharadwaj",
+    "ID":"4D4",
+    "LAT":"30.99762",
+    "LNG":78.94356
+  },
+  {
+    "name":"Ashish Garg",
+    "ID":"Q20",
+    "LAT":"30.99601",
+    "LNG":78.94231
+  },
+  {
+    "name":"Ashish Kumar Gupta",
+    "ID":"46Z",
+    "LAT":"30.99921",
+    "LNG":78.94006
+  },
+  {
+    "name":"Ashutosh Trivedi",
+    "ID":"4Z9",
+    "LAT":"30.99703",
+    "LNG":78.94215
+  },
+  {
+    "name":"Ashutosh Vyas",
+    "ID":"48",
+    "LAT":"30ZZ.99504",
+    "LNG":78.94364
+  },
+  {
+    "name":"Bakori Niravkumar Govindbhai",
+    "ID":"L25",
+    "LAT":"30.99775",
+    "LNG":78.94156
+  },
+  {
+    "name":"Balmukund Agrawal",
+    "ID":"T56",
+    "LAT":"30.99505",
+    "LNG":78.94220
+  },
+  {
+    "name":"Bhardwaj Ramkumar",
+    "ID":"T19",
+    "LAT":"30.99518",
+    "LNG":78.93915
+  },
+  {
+    "name":"Bhuvanesh Kumar Srivastava",
+    "ID":"3G0",
+    "LAT":"30.99603",
+    "LNG":78.94175
+  },
+  {
+    "name":"C Sai Bhaskar Krishna",
+    "ID":"5GG0",
+    "LAT":"30.99586",
+    "LNG":78.94370
+  },
+  {
+    "name":"Charan Shetty",
+    "ID":"5E2",
+    "LAT":"30.99570",
+    "LNG":78.93980
+  },
+  {
+    "name":"Chavan Laxmikant Abasaheb",
+    "ID":"36",
+    "LAT":"30.99749",
+    "LNG":78.94293
+  },
+  {
+    "name":"Chavvakula Rose Rani",
+    "ID":"42",
+    "LAT":"30.99744",
+    "LNG":78.46580
+  },
+  {
+    "name":"Chillal Kashinath Basanna",
+    "ID":"34",
+    "LAT":"30.99682",
+    "LNG":78.46458
+  },
+  {
+    "name":"Deepthi M",
+    "ID":"35",
+    "LAT":"30.99684",
+    "LNG":78.46334
+  },
+  {
+    "name":"Devesh Singh Rawat",
+    "ID":"28",
+    "LAT":"30.99728",
+    "LNG":78.46587
+  },
+  {
+    "name":"Dipesh Joshi",
+    "ID":"29",
+    "LAT":"30.99768",
+    "LNG":78.46643
+  },
+  {
+    "name":"Divya Maharshi",
+    "ID":"18",
+    "LAT":"30.99734",
+    "LNG":78.46228
+  },
+  {
+    "name":"Divya Rawat",
+    "ID":"58",
+    "LAT":"30.99692",
+    "LNG":78.46393
+  },
+  {
+    "name":"Duggineni V Krishna Chaitanya",
+    "ID":"23",
+    "LAT":"30.99760",
+    "LNG":78.46446
+  },
+  {
+    "name":"Garisa Venkata Sowmya",
+    "ID":"46",
+    "LAT":"30.99754",
+    "LNG":78.46565
+  },
+  {
+    "name":"Gaurav Chugh",
+    "ID":"23",
+    "LAT":"30.99731",
+    "LNG":78.46339
+  },
+  {
+    "name":"Gollahalli Venkata Sai Krishna",
+    "ID":"28",
+    "LAT":"30.99708",
+    "LNG":78.46540
+  },
+  {
+    "name":"Gopal Shukla",
+    "ID":"24",
+    "LAT":"30.99698",
+    "LNG":78.46331
+  },
+  {
+    "name":"Harsha K C",
+    "ID":"58",
+    "LAT":"30.99728",
+    "LNG":78.46566
+  },
+  {
+    "name":"Harsha N Bhushan",
+    "ID":"50",
+    "LAT":"30.99705",
+    "LNG":78.46235
+  },
+  {
+    "name":"Heena Sharma",
+    "ID":"44",
+    "LAT":"30.99753",
+    "LNG":78.46203
+  },
+  {
+    "name":"Joshi Dnyanesh Madhav",
+    "ID":"32",
+    "LAT":"30.99744",
+    "LNG":78.46237
+  },
+  {
+    "name":"Joydeep",
+    "ID":"41",
+    "LAT":"30.99725",
+    "LNG":78.46208
+  },
+  {
+    "name":"Kanchan Gupta",
+    "ID":"34",
+    "LAT":"30.99739",
+    "LNG":78.46192
+  },
+  {
+    "name":"Kanduluru Kishore",
+    "ID":"60",
+    "LAT":"30.99695",
+    "LNG":78.46446
+  },
+  {
+    "name":"Kaushik Ranjan",
+    "ID":"37",
+    "LAT":"30.99734",
+    "LNG":78.46413
+  },
+  {
+    "name":"Khamar Bhargav Harishkumar",
+    "ID":"44",
+    "LAT":"30.99694",
+    "LNG":78.46236
+  },
+  {
+    "name":"Koduru Sindhuja",
+    "ID":"39",
+    "LAT":"30.99739",
+    "LNG":78.46185
+  },
+  {
+    "name":"Komal Gupta",
+    "ID":"47",
+    "LAT":"30.99712",
+    "LNG":78.46254
+  },
+  {
+    "name":"Koppisetti Rakesh Kumar",
+    "ID":"48",
+    "LAT":"30.99722",
+    "LNG":78.46198
+  },
+  {
+    "name":"Kumudini Kakwani",
+    "ID":"49",
+    "LAT":"30.99764",
+    "LNG":78.46224
+  },
+  {
+    "name":"Lahankar Pushkaraj Jayant",
+    "ID":"56",
+    "LAT":"30.99735",
+    "LNG":78.46643
+  },
+  {
+    "name":"Mayur Patidar",
+    "ID":"27",
+    "LAT":"30.99768",
+    "LNG":78.46393
+  },
+  {
+    "name":"Michael Peter",
+    "ID":"42",
+    "LAT":"30.99718",
+    "LNG":78.46210
+  },
+  {
+    "name":"Mitesh Gupta",
+    "ID":"32",
+    "LAT":"30.99733",
+    "LNG":78.46273
+  },
+  {
+    "name":"Mitta Hari Krishna",
+    "ID":"53",
+    "LAT":"30.99745",
+    "LNG":78.46649
+  },
+  {
+    "name":"Mohnish Bhatt",
+    "ID":"51",
+    "LAT":"30.99703",
+    "LNG":78.46504
+  },
+  {
+    "name":"Monika Sharma",
+    "ID":"27",
+    "LAT":"30.99735",
+    "LNG":78.46445
+  },
+  {
+    "name":"Muhammed Hunaif P",
+    "ID":"55",
+    "LAT":"30.99743",
+    "LNG":78.46475
+  },
+  {
+    "name":"N. L. Prathyusha",
+    "ID":"48",
+    "LAT":"30.99736",
+    "LNG":78.46310
+  },
+  {
+    "name":"Nallu Naveen",
+    "ID":"30",
+    "LAT":"30.99710",
+    "LNG":78.46371
+  },
+  {
+    "name":"Nandyala Ravi Kishore",
+    "ID":"19",
+    "LAT":"30.99712",
+    "LNG":78.46503
+  },
+  {
+    "name":"Naveen Pai",
+    "ID":"47",
+    "LAT":"30.99769",
+    "LNG":78.46586
+  },
+  {
+    "name":"Neetika Panwar",
+    "ID":"56",
+    "LAT":"30.99742",
+    "LNG":78.46479
+  },
+  {
+    "name":"Nikhil Agrawal",
+    "ID":"57",
+    "LAT":"30.99712",
+    "LNG":78.46200
+  },
+  {
+    "name":"Nikita",
+    "ID":"38",
+    "LAT":"30.99694",
+    "LNG":78.46543
+  },
+  {
+    "name":"Nisha Basia",
+    "ID":"55",
+    "LAT":"30.99727",
+    "LNG":78.46527
+  },
+  {
+    "name":"Nitesh Konkar",
+    "ID":"29",
+    "LAT":"30.99716",
+    "LNG":78.46327
+  },
+  {
+    "name":"P Saipriya",
+    "ID":"28",
+    "LAT":"30.99711",
+    "LNG":78.46618
+  },
+  {
+    "name":"Pankaj Kumar Agrawal",
+    "ID":"45",
+    "LAT":"30.99710",
+    "LNG":78.46260
+  },
+  {
+    "name":"Paras Mittal",
+    "ID":"36",
+    "LAT":"30.99727",
+    "LNG":78.46658
+  },
+  {
+    "name":"Parul Gupta",
+    "ID":"24",
+    "LAT":"30.99731",
+    "LNG":78.46183
+  },
+  {
+    "name":"Parush Agarwal",
+    "ID":"28",
+    "LAT":"30.99725",
+    "LNG":78.46640
+  },
+  {
+    "name":"Paspulati Leelaram",
+    "ID":"59",
+    "LAT":"30.99746",
+    "LNG":78.46358
+  },
+  {
+    "name":"Patil Sanjivani Rajiv",
+    "ID":"20",
+    "LAT":"30.99704",
+    "LNG":78.46550
+  },
+  {
+    "name":"Patil Vivek Madhavrao",
+    "ID":"39",
+    "LAT":"30.99766",
+    "LNG":78.46435
+  },
+  {
+    "name":"Patwari Abhijeet Bapurao",
+    "ID":"44",
+    "LAT":"30.99741",
+    "LNG":78.46413
+  },
+  {
+    "name":"Pavithra",
+    "ID":"24",
+    "LAT":"30.99749",
+    "LNG":78.46636
+  },
+  {
+    "name":"Pawan Kumar Rajpoot",
+    "ID":"29",
+    "LAT":"30.99748",
+    "LNG":78.46212
+  },
+  {
+    "name":"Pereira Hammond Alphonse",
+    "ID":"39",
+    "LAT":"30.99726",
+    "LNG":78.46195
+  },
+  {
+    "name":"Pillalamarri B V Ramana",
+    "ID":"48",
+    "LAT":"30.99765",
+    "LNG":78.46212
+  },
+  {
+    "name":"Piyush Kaushik",
+    "ID":"20",
+    "LAT":"30.99754",
+    "LNG":78.46593
+  },
+  {
+    "name":"Prakash Vijay Kharche",
+    "ID":"40",
+    "LAT":"30.99739",
+    "LNG":78.46335
+  },
+  {
+    "name":"Prashant Jhaba",
+    "ID":"48",
+    "LAT":"30.73859",
+    "LNG":78.06720
+  },
+  {
+    "name":"Prashant Prabhakar Nagansure",
+    "ID":"37",
+    "LAT":"30.73655",
+    "LNG":78.07060
+  },
+  {
+    "name":"Prashant Ruwali",
+    "ID":"33",
+    "LAT":"30.73611",
+    "LNG":78.07339
+  },
+  {
+    "name":"Prasun P",
+    "ID":"19",
+    "LAT":"30.73926",
+    "LNG":78.06950
+  },
+  {
+    "name":"Priyamvadha",
+    "ID":"51",
+    "LAT":"30.73527",
+    "LNG":78.07006
+  },
+  {
+    "name":"Priyanka Shukla",
+    "ID":"50",
+    "LAT":"30.73581",
+    "LNG":78.07346
+  },
+  {
+    "name":"R Prashanthkumar Reddy",
+    "ID":"45",
+    "LAT":"30.73660",
+    "LNG":78.06832
+  },
+  {
+    "name":"Rahul R",
+    "ID":"48",
+    "LAT":"30.73817",
+    "LNG":78.07316
+  },
+  {
+    "name":"Rajaram Rahul Ramchandra",
+    "ID":"44",
+    "LAT":"30.73707",
+    "LNG":78.07378
+  },
+  {
+    "name":"Rajat Bansal",
+    "ID":"33",
+    "LAT":"30.73718",
+    "LNG":78.07248
+  },
+  {
+    "name":"Rakesh Rajpurohit",
+    "ID":"42",
+    "LAT":"30.73672",
+    "LNG":78.06782
+  },
+  {
+    "name":"Robin Sharma",
+    "ID":"39",
+    "LAT":"30.73876",
+    "LNG":78.06917
+  },
+  {
+    "name":"Ruchita Jain",
+    "ID":"47",
+    "LAT":"30.73755",
+    "LNG":78.07220
+  },
+  {
+    "name":"S Anvith",
+    "ID":"38",
+    "LAT":"30.73547",
+    "LNG":78.06801
+  },
+  {
+    "name":"Sadariya Ankit Pravinbhai",
+    "ID":"31",
+    "LAT":"30.73547",
+    "LNG":78.07348
+  },
+  {
+    "name":"Sagar Sanjay Sabale",
+    "ID":"55",
+    "LAT":"30.73633",
+    "LNG":78.07198
+  },
+  {
+    "name":"Sandipan Saha",
+    "ID":"48",
+    "LAT":"30.73802",
+    "LNG":78.07042
+  },
+  {
+    "name":"Sanju Haragapure",
+    "ID":"38",
+    "LAT":"30.73644",
+    "LNG":78.06911
+  },
+  {
+    "name":"Saraiya Chirag Manoj",
+    "ID":"48",
+    "LAT":"30.73690",
+    "LNG":78.06935
+  },
+  {
+    "name":"Satya Prakash",
+    "ID":"27",
+    "LAT":"30.73510",
+    "LNG":78.07028
+  },
+  {
+    "name":"Saumya Tayal",
+    "ID":"25",
+    "LAT":"30.73799",
+    "LNG":78.07346
+  },
+  {
+    "name":"Shah Ankitkumar",
+    "ID":"29",
+    "LAT":"30.73709",
+    "LNG":78.06733
+  },
+  {
+    "name":"Shah Nikita Rajan",
+    "ID":"50",
+    "LAT":"30.73639",
+    "LNG":78.07232
+  },
+  {
+    "name":"Shefali Singla",
+    "ID":"33",
+    "LAT":"30.73484",
+    "LNG":78.06822
+  },
+  {
+    "name":"Shivam Agarwal",
+    "ID":"37",
+    "LAT":"30.73787",
+    "LNG":78.07190
+  },
+  {
+    "name":"Shivam Upadhyay",
+    "ID":"57",
+    "LAT":"30.73884",
+    "LNG":78.06733
+  },
+  {
+    "name":"Shreyas N",
+    "ID":"38",
+    "LAT":"30.73893",
+    "LNG":78.07200
+  },
+  {
+    "name":"Shrimant Chakrabarti",
+    "ID":"23",
+    "LAT":"30.73690",
+    "LNG":78.06802
+  },
+  {
+    "name":"Shubham Karodiya",
+    "ID":"34",
+    "LAT":"30.73871",
+    "LNG":78.06967
+  },
+  {
+    "name":"Siddhesh Dosi",
+    "ID":"44",
+    "LAT":"30.73693",
+    "LNG":78.07067
+  },
+  {
+    "name":"Soumit Das",
+    "ID":"32",
+    "LAT":"30.73491",
+    "LNG":78.07346
+  },
+  {
+    "name":"Srinivas R Vaidya",
+    "ID":"58",
+    "LAT":"30.73626",
+    "LNG":78.07071
+  },
+  {
+    "name":"Subin Thomas",
+    "ID":"20",
+    "LAT":"30.73898",
+    "LNG":78.07026
+  },
+  {
+    "name":"Sumit Kumar Dutta",
+    "ID":"41",
+    "LAT":"30.73830",
+    "LNG":78.06757
+  },
+  {
+    "name":"Sumit Singh Chauhan",
+    "ID":"47",
+    "LAT":"30.73578",
+    "LNG":78.07361
+  },
+  {
+    "name":"Sunkari Raja Shekhar Reddy",
+    "ID":"56",
+    "LAT":"30.73771",
+    "LNG":78.07216
+  },
+  {
+    "name":"Surabhi Taluja",
+    "ID":"26",
+    "LAT":"30.73707",
+    "LNG":78.07234
+  },
+  {
+    "name":"Thangella Venkat Reddy",
+    "ID":"58",
+    "LAT":"30.73585",
+    "LNG":78.06933
+  },
+  {
+    "name":"Tuli Kundu",
+    "ID":"35",
+    "LAT":"30.73604",
+    "LNG":78.06942
+  },
+  {
+    "name":"Uday Bhan Singh",
+    "ID":"52",
+    "LAT":"30.73911",
+    "LNG":78.07098
+  },
+  {
+    "name":"Varun Singh",
+    "ID":"48",
+    "LAT":"30.73960",
+    "LNG":78.07038
+  },
+  {
+    "name":"Venkatesh Vishwarup",
+    "ID":"18",
+    "LAT":"30.73587",
+    "LNG":78.07317
+  },
+  {
+    "name":"Venu Gopal Peddi",
+    "ID":"59",
+    "LAT":"30.73860",
+    "LNG":78.07250
+  },
+  {
+    "name":"Vishesh Jain",
+    "ID":"44",
+    "LAT":"30.73633",
+    "LNG":78.06804
+  },
+  {
+    "name":"Yash Thadani",
+    "ID":"41",
+    "LAT":"30.73514",
+    "LNG":78.06951
+  },
+  {
+    "name":"Zadbuke Apurva Jagdish",
+    "ID":"19",
+    "LAT":"30.73735",
+    "LNG":78.07110
+  }
+]
